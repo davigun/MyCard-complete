@@ -1,0 +1,4 @@
+#Tue Feb 22 23:28:16 WIB 2022
+base.0=/Users/davidgunawan/Downloads/Flutter Training Course - CBN/Starter Project/my_card_complete/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

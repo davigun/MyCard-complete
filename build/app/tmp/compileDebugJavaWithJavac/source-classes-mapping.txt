@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+co/appbrewery/micard/MainActivity.java
+ co.finarry.mycard.MainActivity
+co/finarry/mycard/BuildConfig.java
+ co.finarry.mycard.BuildConfig
